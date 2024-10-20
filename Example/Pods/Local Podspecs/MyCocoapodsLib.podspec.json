@@ -1,0 +1,22 @@
+{
+  "name": "MyCocoapodsLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapodsLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/si-kartikay-rane/MyCocoapodsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "si-kartikay-rane": "kartikay.rane@sportzinteractive.net"
+  },
+  "source": {
+    "git": "https://github.com/si-kartikay-rane/MyCocoapodsLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyCocoapodsLib/Classes/**/*"
+}
